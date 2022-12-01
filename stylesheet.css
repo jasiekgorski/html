@@ -1,0 +1,80 @@
+a{
+	font-size: 20px;
+	padding: 15px;
+}
+header{
+	font-size: 20;
+  background-color: #FFFDD0;
+  border: 2px solid black;
+  border-radius: 5px;
+	text-align: center;
+}
+main{
+  background-color: #00A693;
+	margin: 5px;
+  border-radius: 5px;
+}
+footer{
+  background-color: #FFFDD0;
+  border: 2px solid black;
+  border-radius: 5px;
+  text-align: center;
+}
+h1{
+  text-align: center;
+  background-color: #FFFDD0;
+}
+hr{
+  background-color: black;
+  
+}
+.kontakt{ 
+	font-size: 25px;
+}
+.listy{
+  display: flex;
+  justify-content: flex-start;
+
+}
+.tło{
+  background-image: url("https://lunares.pl/p/72897/fototapeta-krakow-stare-miasto-rynek-kosciol-mariacki-i-sukiennice-2.jpg");
+  width: 1290.7px;
+  
+}
+table, tr, td, th{
+  border: 2px solid black ;
+  padding: 2px;
+  
+}
+html, body {
+  height: 100%;
+  width: 100%;
+}<br>
+article{
+  display: flex;
+}
+article p{
+  margin: 15px;
+}
+.text{
+  text-align: left;
+}
+.text2{
+  text-align: right;
+}html, body {
+  height: auto;
+  width: auto;
+  background-color: #00A693;
+  color: "black";
+}
+.imiona{
+font-size:20px;
+
+}
+.input{
+	text-align: center;
+}
+.label{
+font-size : 20px;
+}
+button{font-size:20px;}
